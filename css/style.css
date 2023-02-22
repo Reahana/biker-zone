@@ -1,3 +1,15 @@
 .bz-light-red{
     background-color: rgba(250, 0, 0, 0.213);
 }
+.bz-text-light-red{
+    color: rgba(250, 0, 233, 0.806);
+}
+.rating-icon{
+  width: 20px;
+}
+.btn-bz-danger{
+    background-color: rgba(255, 38, 186, 0.401);
+}
+/* .w-25{
+   width: 75% !important;
+} */
